@@ -2,7 +2,7 @@
 
 Take a comma separated file and send to an URL that receive the data in a JSON format.
 
-The rows of the file are:
+The columns of the file are:
 
 date the reading, barcode, position(in warehouse), temperature, humidity, status
 
